@@ -1,7 +1,7 @@
 # Flutter Workshop - GDSC NIT ROURKELA - Preptember 2021
 
-## What we built during the workshop? For checking out the [code](https://github.com/nayakastha/flutter-workshop-preptember/blob/main/counter.dart)
-![Screenshot (276)](https://user-images.githubusercontent.com/58568514/132632384-0b355bb4-5032-4b95-8e51-a1c2f8a53311.png)
+## What we built during the workshop? For checking out the [code](https://github.com/nayakastha/flutter-workshop-preptember/blob/main/codes/counter.dart)
+![Screenshot (276)](https://github.com/nayakastha/flutter-workshop-preptember/blob/867cbb8a763b89d23fd3de6d197fcc3660ad4432/images/counter.png)
 
 
 ## What is Flutter? 
