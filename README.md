@@ -2,14 +2,14 @@
 
 ## What we built during the workshop? 
 
-For checking out the [code](https://github.com/nayakastha/flutter-workshop-preptember/blob/main/codes/counter.dart)
-![sample app](https://github.com/nayakastha/flutter-workshop-preptember/blob/main/images/counter.png)
+For checking out the [code](https://github.com/nayakastha/AwesomeDartPad/blob/main/codes/counter.dart)
+![sample app](https://github.com/nayakastha/AwesomeDartPad/blob/main/images/counter.png)
 
-For checking out the [code](https://github.com/nayakastha/flutter-workshop-preptember/blob/main/codes/solar.dart)
-![solar system](https://github.com/nayakastha/flutter-workshop-preptember/blob/main/images/solar.png)
+For checking out the [code](https://github.com/nayakastha/AwesomeDartPad/blob/main/codes/solar.dart)
+![solar system](https://github.com/nayakastha/AwesomeDartPad/blob/main/images/solar.png)
 
-For checking out the [code](https://github.com/nayakastha/flutter-workshop-preptember/blob/main/codes/paint.dart)
-![draw it out](https://github.com/nayakastha/flutter-workshop-preptember/blob/main/images/paint.png)
+For checking out the [code](https://github.com/nayakastha/AwesomeDartPad/blob/main/codes/paint.dart)
+![draw it out](https://github.com/nayakastha/AwesomeDartPad/blob/main/images/paint.png)
 
 
 
