@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
@@ -51,7 +50,8 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Text(widget.title),
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.vertical(
-            bottom: Radius.elliptical(MediaQuery.of(context).size.shortestSide, 56.0),
+            bottom: Radius.elliptical(
+                MediaQuery.of(context).size.shortestSide, 56.0),
           ),
         ),
       ),
